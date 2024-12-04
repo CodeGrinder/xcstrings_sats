@@ -1,0 +1,6 @@
+filters:
+- filter_type: file
+  file_format: XCSTRINGS
+  source_file: source/member-app-native-ios_ios-app_en.xcstrings
+  source_language: en
+  translation_files_expression: 'Translations/member-app-native-ios_ios-app_<lang>.xcstrings'
